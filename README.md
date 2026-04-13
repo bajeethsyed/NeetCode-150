@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 3
+- **Total Problems Solved:** 4
 - **Easy:** 2 🟢
-- **Medium:** 1 🟡
+- **Medium:** 2 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1977577141/) | 🟢 Easy | python3 | 2026-04-13 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1977582264/) | 🟢 Easy | python3 | 2026-04-13 |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | python3 | 2026-04-13 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | python3 | 2026-04-13 |
 
 ---
