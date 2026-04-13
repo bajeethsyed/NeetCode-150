@@ -1,7 +1,7 @@
 #
 # Problem: 242. Valid Anagram
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/valid-anagram/submissions/1977577141/
+# Link: https://leetcode.com/problems/valid-anagram/submissions/1977582264/
 # Language: python3
 # Date: 2026-04-13
 
