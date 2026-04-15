@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 8
-- **Easy:** 4 🟢
+- **Total Problems Solved:** 9
+- **Easy:** 5 🟢
 - **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | python3 | 2026-04-15 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-04-13 |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 🟢 Easy | python3 | 2026-04-15 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1977577141/) | 🟢 Easy | python3 | 2026-04-13 |
