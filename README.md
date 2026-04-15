@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 7
+- **Total Problems Solved:** 8
 - **Easy:** 4 🟢
-- **Medium:** 3 🟡
+- **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 🟢 Easy | python3 | 2026-04-15 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1977577141/) | 🟢 Easy | python3 | 2026-04-13 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1977582264/) | 🟢 Easy | python3 | 2026-04-13 |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1979380105/) | 🟡 Medium | python3 | 2026-04-15 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1978630837/) | 🟡 Medium | python3 | 2026-04-14 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | python3 | 2026-04-13 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | python3 | 2026-04-13 |
