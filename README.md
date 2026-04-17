@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 11
+- **Total Problems Solved:** 12
 - **Easy:** 5 🟢
-- **Medium:** 6 🟡
+- **Medium:** 7 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 🟢 Easy | python3 | 2026-04-15 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1977577141/) | 🟢 Easy | python3 | 2026-04-13 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1977582264/) | 🟢 Easy | python3 | 2026-04-13 |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/956336558/) | 🟡 Medium | python3 | 2026-04-17 |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1979380105/) | 🟡 Medium | python3 | 2026-04-15 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | python3 | 2026-04-15 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | python3 | 2026-04-15 |
